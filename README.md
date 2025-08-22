@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,19,26&height=250&section=header&text=Welcome%20to%20my%20Digital%20World&fontSize=40&fontColor=fff&animation=twinkling&stroke=9D4EDD&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,17,19,26&height=300&section=header&text=Welcome%20to%20my%20Creative%20Universe&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Where%20Code%20Meets%20Design%20%E2%9C%A8&descAlignY=52&descAlign=50" />
 </div>
 
 ## 🌟 About Me
@@ -129,7 +129,7 @@ const diya = {
 ```
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,17,19,26&height=150&section=middle&text=Keep%20Coding%20%F0%9F%9A%80&fontSize=30&fontColor=fff&animation=blinking" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,12,17,19,26&height=180&section=middle&text=%F0%9F%8E%A8%20Crafting%20Digital%20Experiences%20%E2%9C%A8&fontSize=28&fontColor=9D4EDD&animation=blinking&stroke=9D4EDD&strokeWidth=2" />
 </div>
 
 ## 🎯 2025 Goals
@@ -180,7 +180,7 @@ const diya = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,19,26&height=80&section=footer&stroke=9D4EDD&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12,17,19,26&height=120&section=footer&stroke=9D4EDD&strokeWidth=2" />
   
   ```
   💭 "First, solve the problem. Then, write the code." - John Johnson
