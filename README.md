@@ -1,11 +1,11 @@
 # Hi there, I'm Diya Kanwar! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Front-End+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Computer+Science+Student+%F0%9F%93%9A;Creative+Problem+Solver+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Front-End+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Computer+Science+Student+%F0%9F%93%9A;Creative+Problem+Solver+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20&height=250&section=header&text=Welcome%20to%20my%20Digital%20World&fontSize=40&fontColor=fff&animation=twinkling&stroke=00ff41&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,19,26&height=250&section=header&text=Welcome%20to%20my%20Digital%20World&fontSize=40&fontColor=fff&animation=twinkling&stroke=9D4EDD&strokeWidth=1" />
 </div>
 
 ## 🌟 About Me
@@ -44,7 +44,7 @@ const diya = {
 ```
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiyaKanwar&theme=chartreuse-dark&hide_border=true&stroke=0000&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiyaKanwar&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Tech Arsenal
@@ -76,8 +76,8 @@ const diya = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiyaKanwar&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaKanwar&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiyaKanwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiyaKanwar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFF"/>
 </div>
 
 ## 🏆 Project Showcase
@@ -107,7 +107,7 @@ const diya = {
 ## 🌈 Current Journey
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiyaKanwar&theme=github-compact&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiyaKanwar&theme=tokyo-night&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
 ```
@@ -150,7 +150,7 @@ const diya = {
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=todoist&logoColor=black)](https://diya-kanwar-portfolio-craft.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=todoist&logoColor=white)](https://diya-kanwar-portfolio-craft.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanwardiya1@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diyakanwar)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiyaKanwar)
@@ -158,17 +158,17 @@ const diya = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DiyaKanwar&label=Profile%20Views&color=00FF41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DiyaKanwar&label=Profile%20Views&color=9D4EDD&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20&height=80&section=footer&stroke=00FF41&strokeWidth=1" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,17,19,26&height=80&section=footer&stroke=9D4EDD&strokeWidth=1" />
   
   ```
   💭 "First, solve the problem. Then, write the code." - John Johnson
   ```
   
-  <sub>⭐ From [DiyaKanwar](https://github.com/DiyaKanwar) with 💚</sub>
+  <sub>⭐ From [DiyaKanwar](https://github.com/DiyaKanwar) with 💜</sub>
 </div>
